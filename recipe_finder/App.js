@@ -33,7 +33,6 @@ export default function App() {
 
   return (
       <View style={styles.container}>
-          <View ></View>
           <FlatList
               style={{marginLeft : "5%"}}
               keyExtractor={(item, index) => index.toString()}
