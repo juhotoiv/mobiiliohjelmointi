@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46e77854-8527-49ba-a80e-fdb88e331ced" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipe_finder/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/recipe_finder/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +24,7 @@
     <dismissed value="$PROJECT_DIR$/multipage_calculator/package.json" />
   </component>
   <component name="ProjectId" id="1jSLMtDnVqVWutoDHyKOsqagguI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -62,6 +63,7 @@
       <workItem from="1603792507487" duration="14999000" />
       <workItem from="1604419505315" duration="807000" />
       <workItem from="1604503110328" duration="10102000" />
+      <workItem from="1605179869380" duration="11173000" />
     </task>
     <servers />
   </component>
