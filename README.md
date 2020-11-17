@@ -13,5 +13,6 @@ Mobiiliohjelmointi (kevät 2020), harjoitustehtävät
 - Tehtävä 9 & 11: [Find Address](/find_address/App.js)
 - Tehtävä 10: [Restaurant Finder](/restaurant_finder/App.js)
 - Tehtävä 12: [Shopping list with database](/shopping_list_with_db/App.js)
-- Tehtävä 13: [Shopping list with polished UI](/shopping_list_with_polished_UI/App.js)
-- Tehtävä 14: [My places App](/my_places_app/App.js)
+- Tehtävä 13: [Shopping list with firebase](/shopping_list_with_fb/App.js)
+- Tehtävä 14: [Shopping list with polished UI](/shopping_list_with_polished_UI/App.js)
+- Tehtävä 15: [My places App](/my_places_app/App.js)
