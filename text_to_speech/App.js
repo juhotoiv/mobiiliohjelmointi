@@ -13,7 +13,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <TextInput
-          style={{width: 200, height: 50, borderColor: 'gray', borderWidth: 1, marginBottom: 10}}
+          style={{width: 150, height: 50, borderColor: 'gray', borderWidth: 1, marginBottom: 10}}
           onChangeText={text => setText(text)}
           value={text}
       />
@@ -21,7 +21,7 @@ export default function App() {
       <StatusBar style="auto" />
     </View>
   );
-}
+};
 
 const styles = StyleSheet.create({
   container: {
